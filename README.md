@@ -23,10 +23,10 @@ You can click the Preview link to take a look at your changes.
 
  ## Contact 📫
 <p>
-    <a href="mailto:cheahkahxuan0@gmail.com">
+    <a href="mailto:cheahkahxuan@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/weoy-yang-ang/">
+    <a href="https://www.linkedin.com/in/cheah-kah-xuan/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white">
     </a>   
 </p>
